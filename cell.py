@@ -12,6 +12,8 @@ class Cell:
         self.__y1 = -1.0
         self.__y2 = -1.0
         self.__win = win
+        self.visited = False
+
 
     def draw(self, x1: float, y1: float, x2: float, y2: float) -> None:
         if self.__win is None:
