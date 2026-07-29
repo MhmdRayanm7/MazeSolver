@@ -2,6 +2,10 @@
 
 A simple maze generator and solver built with Python and Tkinter.
 
+## Preview
+
+![Maze Solver Demo](assets/maze-solver-demo.png)
+
 ## Features
 
 - Generates a random maze
